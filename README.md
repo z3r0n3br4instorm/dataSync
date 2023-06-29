@@ -1,2 +1,6 @@
 # dataSync
-A system which reads call data over Android Developer Bridg
+A system which reads call data over Android Developer Bridge
+
+NOTE:
+ROOTED DEVICE REQUIRED !
+DEVICE MUST BE ABLE TO PROVDE SUPERUSER ACCESS TO ADB SHELL IN ORDER TO THIS SYSTEM TO WORK
