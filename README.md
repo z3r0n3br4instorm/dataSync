@@ -1,5 +1,5 @@
 # dataSync
-A system which reads call data over Android Developer Bridge
+A system which reads call data over Android Development Bridge
 
 NOTE:
 ROOTED DEVICE REQUIRED !
